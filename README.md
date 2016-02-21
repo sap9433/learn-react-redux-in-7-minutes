@@ -5,9 +5,18 @@
 
 # Learn-react-redux-in-7-minutes
 
-> This repo contains entire source code for blog - [Learn-react-redux-in-7-minutes](https://medium.com/@sapy/learn-react-redux-in-7-minutes-3fc52ce5ce74)
+> This repo contains entire source code for Medium blog  [Learn-react-redux-in-7-minutes](https://medium.com/@sapy/learn-react-redux-in-7-minutes-3fc52ce5ce74)
 
-## Demo
+# Running the code 
+```
+git pull
+npm install
+npm run server
+```
+> And your application will be up & running @ localhost:5326
+
+
+## [Demo](http://sap9433.github.io/learn-react-redux-in-7-minutes/)
 
 > Here is the [Demo](http://sap9433.github.io/learn-react-redux-in-7-minutes/) 
 
