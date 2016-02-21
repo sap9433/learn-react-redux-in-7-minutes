@@ -1,3 +1,8 @@
+[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com) 
+[![forthebadge](http://forthebadge.com/images/badges/built-with-swag.svg)](http://forthebadge.com)
+
+
+
 # Learn-react-redux-in-7-minutes
 
 > This repo contains entire source code for blog - [Learn-react-redux-in-7-minutes](https://medium.com/@sapy/learn-react-redux-in-7-minutes-3fc52ce5ce74)
