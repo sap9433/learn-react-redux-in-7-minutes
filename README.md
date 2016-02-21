@@ -1,5 +1,5 @@
-[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com) 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-swag.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](https://www.facebook.com/saptarshi.chatterjee.9) 
+[![forthebadge](http://forthebadge.com/images/badges/built-with-swag.svg)](https://in.linkedin.com/in/saptarshi-chatterjee-55a22613)
 
 
 
@@ -18,7 +18,7 @@ npm run server
 
 ## [Demo](http://sap9433.github.io/learn-react-redux-in-7-minutes/)
 
-> Here is the [Demo](http://sap9433.github.io/learn-react-redux-in-7-minutes/) 
+> Here is the Demo. [![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://sap9433.github.io/learn-react-redux-in-7-minutes/) 
 
 ## Share
 
