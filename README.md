@@ -1,6 +1,6 @@
-# learn-react-redux-in-7-minutes
+# Learn-react-redux-in-7-minutes
 
-> Entire source code for blog https://medium.com/@sapy/learn-react-redux-in-7-minutes-3fc52ce5ce74.
+> This repo contains entire source code for blog - [Learn-react-redux-in-7-minutes](https://medium.com/@sapy/learn-react-redux-in-7-minutes-3fc52ce5ce74)
 
 ## Demo
 
