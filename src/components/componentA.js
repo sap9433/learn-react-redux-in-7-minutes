@@ -10,7 +10,7 @@ class ComponentA extends Component {
                 const randomColor = '#' + Math.random().toString(16).slice(-6);
                 this.props.changeColor(randomColor);
             }}>
-                 Change Color
+                 Change Color.
                </button>
             </div>
             );
